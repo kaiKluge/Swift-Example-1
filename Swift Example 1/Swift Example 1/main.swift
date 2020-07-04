@@ -11,6 +11,7 @@ import Foundation
 var name: String = "Kai"
 var age: Int = 54
 var value: Double = 154321
+var payRate: Float = 134000.51
 
 print("Name is \(name)")
 print("\(name) is \(age) years old")
